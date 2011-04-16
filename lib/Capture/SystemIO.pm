@@ -21,7 +21,7 @@ use Exception::Class (
     },
 
 );
-our ($VERSION) = "0.01_4";
+our ($VERSION) = "0.01";
 our @EXPORT_OK = qw(cs_system);
 
 

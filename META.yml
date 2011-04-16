@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Capture-SystemIO
-version:            0.01_4
+version:            0.01
 abstract:           system() capture stderr, stdout, and signals.
 author:
     - Rudolf Lippan <rlippan@remotelinux.com>

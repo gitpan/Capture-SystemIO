@@ -2,6 +2,14 @@
 
 =head1 REVISION HISTORY
 
+=head2 0.01 Mon Apr 11 13:07:38 EDT 2011
+
+=over
+
+=item * Bump version number for a non developer release.
+
+=back
+
 =head2 0.01_4 Thu Dec  9 09:11:38 EST 2010
 
 =over
